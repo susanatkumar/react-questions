@@ -42,7 +42,7 @@ return (
       <main class="max-w-full h-full flex relative overflow-y-hidden">
          <div class="h-full w-full m-4 flex flex-wrap items-start justify-start rounded-tl grid-flow-col auto-cols-max gap-4 overflow-y-scroll">
             <div class="w-96 h-auto rounded-lg flex-shrink-0 flex-grow bg-gray-400">
-               <h1 class='text-center mt-1 text-black text-[#797B7C] font-medium color-red'>React Interview Questions</h1>
+               {/* <h1 class='text-center mt-1 text-black text-[#797B7C] font-medium color-red'>React Interview Questions</h1> */}
                <div className='p-3'>
                   <h2 className='font-medium '>1. What is React? </h2>
                   <p>React is a JavaScript library used for building user interfaces, particularly
